@@ -1,5 +1,8 @@
 {
-  "name": "test-li9b-again",
+  "name": "custom-components-react-ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/MaskoMasko"
+  },
   "version": "1.0.0",
   "description": "",
   "scripts": {
