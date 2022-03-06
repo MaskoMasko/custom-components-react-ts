@@ -1,5 +1,5 @@
 {
-  "name": "custom-components-react-ts-masko",
+  "name": "custom-components-react-ts",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/MaskoMasko"
   },
